@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  height: 100vh;
+  overflow: hidden;
+  background-image: url(./images/thanosBackground.jpg);
+  background-size: cover;
+  font-family: 'Bangers', cursive,
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+
